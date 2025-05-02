@@ -1,28 +1,4 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/RajathRao2000/store-rating-app-frontend">
-    <img src="public/store3d.jpg" alt="Logo" width="100" height="80">
-  </a>
 
-<h3 align="center">Store Rating WebApp</h3>
-
-  <p align="center">
-    A web application enabling users to submit a rating of any store
-registered on this platform
-    <br />
-    <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br /> -->
-    <br />
-    <a href="https://store-rating-app-frontend.vercel.app/sign-in">View Demo</a>
-    <!-- ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a> -->
-  </p>
-</div>
-
-<!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
@@ -30,27 +6,22 @@ This project was done according to the requirements in the challenge given in th
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Backend
 
-Find backend code here: [Github](https://github.com/RajathRao2000/backend_store-rating-app)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Credentials
 
 - <b>Admin:</b>
 
-  - meghavarshini.si@example.com
-  - Admin@123
+  - manya@gmail.com
+  - Admin@1234
 
 - <b>User:</b>
 
-  - aishwarya.bm@example.com
+  - sinhamanya10@gmail.com
   - User@123
 
-- <b>Store Owner:</b>
-  - arjun.iyer@email.com
-  - Store@123
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,13 +60,7 @@ Find backend code here: [Github](https://github.com/RajathRao2000/backend_store-
 
 <img src="readme-assets/store-owner-dashboard.png" alt="Logo" width="500" height="300"> -->
 
-## Coding Challenge
 
-### Tech Stack
-
-- **Backend:** Any NodeJs-based backend framework
-- **Database:** Any non-relational/relational database
-- **Frontend:** Any framework of React
 
 ### Requirement
 
